@@ -4,7 +4,7 @@ const workSlider = {
       images: [
         {
           title: 'title',
-          path: '/Home.png',
+          path: '/loh.png',
         },
         {
           title: 'title',
